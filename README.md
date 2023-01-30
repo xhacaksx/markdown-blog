@@ -1,3 +1,2 @@
 # markdown-blog
 
-# Simple Blog
